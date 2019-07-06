@@ -1,2 +1,2 @@
 # Chat-app-Java
-Chat application supporting direct, group chat with file transfer and database
+Full duplex text and file transfer app using Java Swing and Socket programming
